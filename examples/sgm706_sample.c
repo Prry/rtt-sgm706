@@ -11,7 +11,6 @@
 
 #include <rtthread.h> 
 #include <rtdevice.h>
-#include "watchdog.h"
 #include "sgm706.h"
 
 #define WDT_DEVICE_NAME    "wdt"    /* 看门狗设备名称 */

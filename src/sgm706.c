@@ -11,7 +11,6 @@
 
 #include <rtthread.h>
 #include <rtdevice.h>
-#include "watchdog.h"
 #include "sgm706.h"
 
 #ifdef PKG_USING_SGM706
